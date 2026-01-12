@@ -1,0 +1,13 @@
+{
+  "watch": ["server"],
+  "ignore": [
+    "node_modules",
+    "uploads",
+    "dist",
+    "server/data",
+    "*.log",
+    ".env"
+  ],
+  "ext": "js,mjs,cjs,json",
+  "delay": 500
+}

@@ -1,0 +1,12 @@
+{
+  "providers": ["nodejs"],
+  "buildCmd": "npm ci --prefer-offline --no-audit && npm run build",
+  "startCmd": "node server/index.js",
+  "staticAssets": {
+    "enable": false
+  },
+  "variables": {
+    "NODE_ENV": "production",
+    "PORT": "3000"
+  }
+}

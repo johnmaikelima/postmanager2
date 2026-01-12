@@ -1,0 +1,265 @@
+{
+  "enabled": false,
+  "phrases": [
+    {
+      "id": 1766102384661,
+      "text": "Acredite na força que existe dentro de você.",
+      "status": "failed",
+      "addedAt": "2025-12-18T23:59:44.661Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766102384662,
+      "text": "A persistência é a chave para alcançar seus sonhos.",
+      "status": "failed",
+      "addedAt": "2025-12-18T23:59:44.661Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766102384663,
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "status": "failed",
+      "addedAt": "2025-12-18T23:59:44.661Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766104945445,
+      "text": {
+        "text": "Tenha fé e continue lutando, pois a vitória está próxima.",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:42:25.442Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766104945446,
+      "text": {
+        "text": "Não deixe que o desânimo te impeça de alcançar o que é seu por direito.",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:42:25.442Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766104945448,
+      "text": {
+        "text": "Quando sentir vontade de desistir, lembre-se do motivo pelo qual começou.",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:42:25.442Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766104945449,
+      "text": {
+        "text": "Cada obstáculo vencido te torna mais forte. Não desista agora!",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:42:25.442Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766104945450,
+      "text": {
+        "text": "A determinação é o que diferencia os que desistem dos que conquistam.",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:42:25.442Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766104945451,
+      "text": {
+        "text": "O segredo do sucesso é persistir, mesmo quando tudo parece indicar o contrário.",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:42:25.442Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766105858823,
+      "text": {
+        "text": "Nunca se esqueça: 'Tudo posso naquele que me fortalece.' - Filipenses 4:13",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:57:38.823Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766105858824,
+      "text": {
+        "text": "Não tema, pois 'Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.' - Salmos 46:1",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:57:38.823Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766105858825,
+      "text": {
+        "text": "'O Senhor é meu rochedo, minha fortaleza e meu libertador.' - Salmos 18:2",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:57:38.823Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766105858826,
+      "text": {
+        "text": "Lembre-se: 'O Senhor é a minha luz e a minha salvação; de quem terei temor?' - Salmos 27:1",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:57:38.823Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766105858827,
+      "text": {
+        "text": "Tenha fé, pois 'o Senhor é bom, um refúgio em tempos de angústia.' - Naum 1:7",
+        "approved": true,
+        "contentType": "reel"
+      },
+      "status": "pending",
+      "addedAt": "2025-12-19T00:57:38.823Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129190,
+      "text": "Não desista, a esperança é a luz que vence a escuridão.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129191,
+      "text": "Cada amanhecer é uma nova chance de superar os desafios.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129192,
+      "text": "Você é mais forte do que pensa, acredite em sua capacidade.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129193,
+      "text": "Lembre-se: a tempestade passa e o sol sempre volta a brilhar.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129194,
+      "text": "Aceite a jornada, mas não se esqueça que é você quem escreve a história.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129195,
+      "text": "Encontre a paz dentro de si para acalmar o caos ao redor.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129196,
+      "text": "A cada passo adiante, a sombra da depressão fica para trás.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    },
+    {
+      "id": 1766108129199,
+      "text": "Sua força interior é um tesouro precioso, não deixe a escuridão roubá-la.",
+      "status": "pending",
+      "addedAt": "2025-12-19T01:35:29.190Z",
+      "scheduledAt": null,
+      "publishedAt": null,
+      "jobIds": []
+    }
+  ],
+  "config": {
+    "scheduleHours": [
+      8,
+      12,
+      18,
+      21
+    ],
+    "pageIds": [],
+    "template": "dark",
+    "watermark": "@motivacionaldiario",
+    "postsPerDay": 4
+  },
+  "stats": {
+    "totalAdded": 58,
+    "totalScheduled": 16,
+    "totalPublished": 0,
+    "lastRun": "2025-12-19T01:12:41.973Z"
+  }
+}
